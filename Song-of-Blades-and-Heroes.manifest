@@ -1,11 +1,11 @@
 {
   "name": "Song of Blades and Heroes 4e",
   "revision": "0",
-  "info": "",
   "game": "Song of Blades and Heroes",
   "genre": "fantasy",
   "publisher": "Ganesha Games",
   "url": "https://www.songofblades.com/",
+  "notes": "This manifest is provided for the purposes of testing *Rosterizer* and is not intended for distribution.",
   "manifest": {
     "assetTaxonomy": {
       "Model": {
@@ -121,7 +121,6 @@
             "Special Rule§Tough"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dragon"
@@ -142,8 +141,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Adult Dragon"
+        "text": ""
       },
       "Model§Air Elemental": {
         "assets": {
@@ -154,7 +152,6 @@
             "Special Rule§Artificial"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Elemental"
@@ -175,8 +172,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Air Elemental"
+        "text": ""
       },
       "Model§Ancient Dragon": {
         "assets": {
@@ -190,7 +186,6 @@
             "Special Rule§Magic-User"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dragon"
@@ -211,8 +206,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Ancient Dragon"
+        "text": ""
       },
       "Model§Badger Lord": {
         "assets": {
@@ -221,7 +215,6 @@
             "Special Rule§Forester"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Beast"
@@ -242,8 +235,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword",
-        "designation": "Badger Lord"
+        "text": "sword"
       },
       "Model§Badger Warrior": {
         "assets": {
@@ -251,7 +243,6 @@
             "Special Rule§Forester"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Beast"
@@ -272,8 +263,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon",
-        "designation": "Badger Warrior"
+        "text": "hand weapon"
       },
       "Model§Basilisk": {
         "assets": {
@@ -281,7 +271,6 @@
             "Special Rule§Assassin"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Monster"
@@ -302,8 +291,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Basilisk"
+        "text": ""
       },
       "Model§Bear Lord": {
         "assets": {
@@ -315,7 +303,6 @@
             "Special Rule§Forester"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Beast"
@@ -336,8 +323,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword",
-        "designation": "Bear Lord"
+        "text": "sword"
       },
       "Model§Bear Warrior": {
         "assets": {
@@ -348,7 +334,6 @@
             "Special Rule§Forester"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Beast"
@@ -369,8 +354,7 @@
             "statType": "rank"
           }
         },
-        "text": "greatsword or war club",
-        "designation": "Bear Warrior"
+        "text": "greatsword or war club"
       },
       "Model§Blob": {
         "assets": {
@@ -382,7 +366,6 @@
             "Special Rule§Tough"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Ooze"
@@ -403,8 +386,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Blob"
+        "text": ""
       },
       "Model§Bugbear Chieftain": {
         "assets": {
@@ -415,7 +397,6 @@
             "Special Rule§Leader"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -436,8 +417,7 @@
             "statType": "rank"
           }
         },
-        "text": "scale armor, two handed weapon",
-        "designation": "Bugbear Chieftain"
+        "text": "scale armor, two handed weapon"
       },
       "Model§Bugbear Guard": {
         "assets": {
@@ -448,7 +428,6 @@
             "Special Rule§Steadfast"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -469,8 +448,7 @@
             "statType": "rank"
           }
         },
-        "text": "scale armor, two handed weapon",
-        "designation": "Bugbear Guard"
+        "text": "scale armor, two handed weapon"
       },
       "Model§Bugbear Shaman": {
         "assets": {
@@ -481,7 +459,6 @@
             "Special Rule§Magic-User"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -502,8 +479,7 @@
             "statType": "rank"
           }
         },
-        "text": "staff",
-        "designation": "Bugbear Shaman"
+        "text": "staff"
       },
       "Model§Bugbear Warrior": {
         "assets": {
@@ -513,7 +489,6 @@
             "Long Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -534,8 +509,7 @@
             "statType": "rank"
           }
         },
-        "text": "scale armor, two handed weapon",
-        "designation": "Bugbear Warrior"
+        "text": "scale armor, two handed weapon"
       },
       "Model§Clay Golem": {
         "assets": {
@@ -546,7 +520,6 @@
             "Special Rule§Tough"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Golem"
@@ -567,8 +540,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Clay Golem"
+        "text": ""
       },
       "Model§Cockatrice": {
         "assets": {
@@ -577,7 +549,6 @@
             "Special Rule§Flying"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Monster"
@@ -598,8 +569,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Cockatrice"
+        "text": ""
       },
       "Model§Cougar-man Archer": {
         "assets": {
@@ -607,7 +577,6 @@
             "Special Rule§Shooter (Medium)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Cat"
@@ -628,8 +597,7 @@
             "statType": "rank"
           }
         },
-        "text": "bow, dagger",
-        "designation": "Cougar-man Archer"
+        "text": "bow, dagger"
       },
       "Model§Cougar-man Shaman": {
         "assets": {
@@ -637,7 +605,6 @@
             "Special Rule§Magic-User"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Cat"
@@ -658,8 +625,7 @@
             "statType": "rank"
           }
         },
-        "text": "staff",
-        "designation": "Cougar-man Shaman"
+        "text": "staff"
       },
       "Model§Dwarf Cavalry": {
         "assets": {
@@ -667,7 +633,6 @@
             "Special Rule§Mounted"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dwarf"
@@ -688,8 +653,7 @@
             "statType": "rank"
           }
         },
-        "text": "riding bear",
-        "designation": "Dwarf Cavalry"
+        "text": "riding bear"
       },
       "Model§Dwarf Commander": {
         "assets": {
@@ -698,7 +662,6 @@
             "Special Rule§Fearless"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dwarf"
@@ -719,8 +682,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword and shield, chainmail",
-        "designation": "Dwarf Commander"
+        "text": "sword and shield, chainmail"
       },
       "Model§Dwarf Crossbowman": {
         "assets": {
@@ -729,7 +691,6 @@
             "Special Rule§Shooter (Medium)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dwarf"
@@ -750,8 +711,7 @@
             "statType": "rank"
           }
         },
-        "text": "crossbow, chainmail",
-        "designation": "Dwarf Crossbowman"
+        "text": "crossbow, chainmail"
       },
       "Model§Dwarf Dragonslayer": {
         "assets": {
@@ -761,7 +721,6 @@
             "Special Rule§Fearless"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dwarf"
@@ -782,8 +741,7 @@
             "statType": "rank"
           }
         },
-        "text": "two handed weapon, chainmail armor",
-        "designation": "Dwarf Dragonslayer"
+        "text": "two handed weapon, chainmail armor"
       },
       "Model§Dwarf Elite Warrior": {
         "assets": {
@@ -793,7 +751,6 @@
             "Special Rule§Fearless"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dwarf"
@@ -814,8 +771,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield",
-        "designation": "Dwarf Elite Warrior"
+        "text": "hand weapon and shield"
       },
       "Model§Dwarf Magic-user": {
         "assets": {
@@ -824,7 +780,6 @@
             "Magic§user"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dwarf"
@@ -845,8 +800,7 @@
             "statType": "rank"
           }
         },
-        "text": "dagger",
-        "designation": "Dwarf Magic-user"
+        "text": "dagger"
       },
       "Model§Dwarf Orcslayer": {
         "assets": {
@@ -855,7 +809,6 @@
             "Lethal vs. Orcs"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dwarf"
@@ -876,8 +829,7 @@
             "statType": "rank"
           }
         },
-        "text": "two handed weapon",
-        "designation": "Dwarf Orcslayer"
+        "text": "two handed weapon"
       },
       "Model§Dwarf Skirmisher": {
         "assets": {
@@ -886,7 +838,6 @@
             "Special Rule§Shooter (Short)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dwarf"
@@ -907,8 +858,7 @@
             "statType": "rank"
           }
         },
-        "text": "javelin, shortbow or small crossbow",
-        "designation": "Dwarf Skirmisher"
+        "text": "javelin, shortbow or small crossbow"
       },
       "Model§Dwarf Thief": {
         "assets": {
@@ -917,7 +867,6 @@
             "Special Rule§Stealth"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dwarf"
@@ -938,8 +887,7 @@
             "statType": "rank"
           }
         },
-        "text": "dagger",
-        "designation": "Dwarf Thief"
+        "text": "dagger"
       },
       "Model§Dwarf Trollslayer": {
         "assets": {
@@ -948,7 +896,6 @@
             "Lethal vs. Trolls"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dwarf"
@@ -969,8 +916,7 @@
             "statType": "rank"
           }
         },
-        "text": "large axe or maul",
-        "designation": "Dwarf Trollslayer"
+        "text": "large axe or maul"
       },
       "Model§Dwarf Warrior": {
         "assets": {
@@ -978,7 +924,6 @@
             "Special Rule§Short Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dwarf"
@@ -999,8 +944,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield",
-        "designation": "Dwarf Warrior"
+        "text": "hand weapon and shield"
       },
       "Model§Earth Elemental": {
         "assets": {
@@ -1010,7 +954,6 @@
             "Special Rule§Tough"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Elemental"
@@ -1031,8 +974,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Earth Elemental"
+        "text": ""
       },
       "Model§Elf Archer": {
         "assets": {
@@ -1040,7 +982,6 @@
             "Special Rule§Shooter (Long)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Elf"
@@ -1061,8 +1002,7 @@
             "statType": "rank"
           }
         },
-        "text": "dagger and longbow",
-        "designation": "Elf Archer"
+        "text": "dagger and longbow"
       },
       "Model§Elf Cavalry": {
         "assets": {
@@ -1071,7 +1011,6 @@
             "Special Rule§Forester"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Elf"
@@ -1092,8 +1031,7 @@
             "statType": "rank"
           }
         },
-        "text": "light horse, spear and shield",
-        "designation": "Elf Cavalry"
+        "text": "light horse, spear and shield"
       },
       "Model§Elf Commander": {
         "assets": {
@@ -1101,7 +1039,6 @@
             "Special Rule§Leader"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Elf"
@@ -1122,8 +1059,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword and shield, chainmail",
-        "designation": "Elf Commander"
+        "text": "sword and shield, chainmail"
       },
       "Model§Elf Heavy Cavalry": {
         "assets": {
@@ -1131,7 +1067,6 @@
             "Special Rule§Mounted"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Elf"
@@ -1152,8 +1087,7 @@
             "statType": "rank"
           }
         },
-        "text": "barded warhorse, spear and shield, armor",
-        "designation": "Elf Heavy Cavalry"
+        "text": "barded warhorse, spear and shield, armor"
       },
       "Model§Elf Hero": {
         "assets": {
@@ -1162,7 +1096,6 @@
             "Special Rule§Shooter (Long)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Elf"
@@ -1183,8 +1116,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword, chainmail, longbow",
-        "designation": "Elf Hero"
+        "text": "sword, chainmail, longbow"
       },
       "Model§Elf Sneak": {
         "assets": {
@@ -1193,7 +1125,6 @@
             "Special Rule§Forester"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Elf"
@@ -1214,8 +1145,7 @@
             "statType": "rank"
           }
         },
-        "text": "leather armor, dagger",
-        "designation": "Elf Sneak"
+        "text": "leather armor, dagger"
       },
       "Model§Elf Warrior": {
         "assets": {
@@ -1223,7 +1153,6 @@
             ""
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Elf"
@@ -1244,8 +1173,7 @@
             "statType": "rank"
           }
         },
-        "text": "spear and shield",
-        "designation": "Elf Warrior"
+        "text": "spear and shield"
       },
       "Model§Elf Wizard": {
         "assets": {
@@ -1254,7 +1182,6 @@
             "Special Rule§Forester"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Elf"
@@ -1275,8 +1202,7 @@
             "statType": "rank"
           }
         },
-        "text": "dagger",
-        "designation": "Elf Wizard"
+        "text": "dagger"
       },
       "Model§Fire Elemental": {
         "assets": {
@@ -1285,7 +1211,6 @@
             "Special Rule§Shooter (Short)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Elemental"
@@ -1306,8 +1231,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Fire Elemental"
+        "text": ""
       },
       "Model§Flesh Golem": {
         "assets": {
@@ -1318,7 +1242,6 @@
             "Special Rule§Tough"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Golem"
@@ -1339,8 +1262,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Flesh Golem"
+        "text": ""
       },
       "Model§Fungus man": {
         "assets": {
@@ -1348,7 +1270,6 @@
             "Special Rule§Poison"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Ooze"
@@ -1369,8 +1290,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Fungus man"
+        "text": ""
       },
       "Model§Ghost": {
         "assets": {
@@ -1380,7 +1300,6 @@
             "Special Rule§Flying"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -1401,8 +1320,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Ghost"
+        "text": ""
       },
       "Model§Ghoul": {
         "assets": {
@@ -1411,7 +1329,6 @@
             "Special Rule§Poison"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -1432,8 +1349,7 @@
             "statType": "rank"
           }
         },
-        "text": "club",
-        "designation": "Ghoul"
+        "text": "club"
       },
       "Model§Giant": {
         "assets": {
@@ -1445,7 +1361,6 @@
             "Special Rule§Tough"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Monster"
@@ -1466,8 +1381,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Giant"
+        "text": ""
       },
       "Model§Giant Ant": {
         "assets": {
@@ -1478,7 +1392,6 @@
             "Special Rule§Gregarious"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Bug"
@@ -1499,8 +1412,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Giant Ant"
+        "text": ""
       },
       "Model§Giant Bat": {
         "assets": {
@@ -1511,7 +1423,6 @@
             "Special Rule§Free Disengage"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Animal"
@@ -1532,8 +1443,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Giant Bat"
+        "text": ""
       },
       "Model§Giant Bear": {
         "assets": {
@@ -1542,7 +1452,6 @@
             "Special Rule§Big"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Animal"
@@ -1563,8 +1472,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Giant Bear"
+        "text": ""
       },
       "Model§Giant Bee": {
         "assets": {
@@ -1576,7 +1484,6 @@
             "Special Rule§Poison"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Bug"
@@ -1597,8 +1504,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Giant Bee"
+        "text": ""
       },
       "Model§Giant Centipede": {
         "assets": {
@@ -1610,7 +1516,6 @@
             "Long Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Bug"
@@ -1631,8 +1536,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Giant Centipede"
+        "text": ""
       },
       "Model§Giant Frog": {
         "assets": {
@@ -1641,7 +1545,6 @@
             "Special Rule§Animal"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Animal"
@@ -1662,8 +1565,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Giant Frog"
+        "text": ""
       },
       "Model§Giant Lizard": {
         "assets": {
@@ -1675,7 +1577,6 @@
             "Special Rule§Tailslap"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Lizardman"
@@ -1696,8 +1597,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Giant Lizard"
+        "text": ""
       },
       "Model§Giant Scorpion": {
         "assets": {
@@ -1709,7 +1609,6 @@
             "Special Rule§Tailslap"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Bug"
@@ -1730,8 +1629,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Giant Scorpion"
+        "text": ""
       },
       "Model§Giant Spider": {
         "assets": {
@@ -1743,7 +1641,6 @@
             "Special Rule§Big"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Bug"
@@ -1764,8 +1661,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Giant Spider"
+        "text": ""
       },
       "Model§Giant Wasp": {
         "assets": {
@@ -1776,7 +1672,6 @@
             "Special Rule§Poison"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Bug"
@@ -1797,8 +1692,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Giant Wasp"
+        "text": ""
       },
       "Model§Giant Wolf": {
         "assets": {
@@ -1808,7 +1702,6 @@
             "Long Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Animal"
@@ -1829,8 +1722,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Giant Wolf"
+        "text": ""
       },
       "Model§Goblin Archer": {
         "assets": {
@@ -1838,7 +1730,6 @@
             "Special Rule§Shooter (Medium)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -1859,8 +1750,7 @@
             "statType": "rank"
           }
         },
-        "text": "leather armor and shortbow",
-        "designation": "Goblin Archer"
+        "text": "leather armor and shortbow"
       },
       "Model§Goblin Commander": {
         "assets": {
@@ -1868,7 +1758,6 @@
             "Special Rule§Leader"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -1889,8 +1778,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield",
-        "designation": "Goblin Commander"
+        "text": "hand weapon and shield"
       },
       "Model§Goblin Hero": {
         "assets": {
@@ -1898,7 +1786,6 @@
             "Special Rule§Hero"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -1919,8 +1806,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield",
-        "designation": "Goblin Hero"
+        "text": "hand weapon and shield"
       },
       "Model§Goblin Light Infantry": {
         "assets": {
@@ -1928,7 +1814,6 @@
             ""
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -1949,8 +1834,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon or spear and shield",
-        "designation": "Goblin Light Infantry"
+        "text": "hand weapon or spear and shield"
       },
       "Model§Goblin Sneak": {
         "assets": {
@@ -1958,7 +1842,6 @@
             "Special Rule§Stealth"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -1979,8 +1862,7 @@
             "statType": "rank"
           }
         },
-        "text": "dagger",
-        "designation": "Goblin Sneak"
+        "text": "dagger"
       },
       "Model§Goblin Warrior": {
         "assets": {
@@ -1988,7 +1870,6 @@
             ""
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -2009,8 +1890,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield",
-        "designation": "Goblin Warrior"
+        "text": "hand weapon and shield"
       },
       "Model§Goblin Wolf rider": {
         "assets": {
@@ -2019,7 +1899,6 @@
             "Long Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -2040,8 +1919,7 @@
             "statType": "rank"
           }
         },
-        "text": "riding wolf, hand weapon",
-        "designation": "Goblin Wolf rider"
+        "text": "riding wolf, hand weapon"
       },
       "Model§Gryphon Lord": {
         "assets": {
@@ -2050,7 +1928,6 @@
             "Special Rule§Leader"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Gryphon"
@@ -2071,8 +1948,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword",
-        "designation": "Gryphon Lord"
+        "text": "sword"
       },
       "Model§Gryphon Warrior": {
         "assets": {
@@ -2080,7 +1956,6 @@
             "Special Rule§Flying"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Gryphon"
@@ -2101,8 +1976,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword",
-        "designation": "Gryphon Warrior"
+        "text": "sword"
       },
       "Model§Halfling Archer": {
         "assets": {
@@ -2111,7 +1985,6 @@
             "Special Rule§Shooter (Medium)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Halfling"
@@ -2132,8 +2005,7 @@
             "statType": "rank"
           }
         },
-        "text": "shortbow",
-        "designation": "Halfling Archer"
+        "text": "shortbow"
       },
       "Model§Halfling Hero": {
         "assets": {
@@ -2142,7 +2014,6 @@
             "Special Rule§Hero"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Halfling"
@@ -2163,8 +2034,7 @@
             "statType": "rank"
           }
         },
-        "text": "chainmail, shield and hand weapon",
-        "designation": "Halfling Hero"
+        "text": "chainmail, shield and hand weapon"
       },
       "Model§Halfling Rider": {
         "assets": {
@@ -2172,7 +2042,6 @@
             "Special Rule§Mounted"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Halfling"
@@ -2193,8 +2062,7 @@
             "statType": "rank"
           }
         },
-        "text": "riding hound, shield and spear",
-        "designation": "Halfling Rider"
+        "text": "riding hound, shield and spear"
       },
       "Model§Halfling Slinger": {
         "assets": {
@@ -2203,7 +2071,6 @@
             "Special Rule§Shooter (Medium)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Halfling"
@@ -2224,8 +2091,7 @@
             "statType": "rank"
           }
         },
-        "text": "sling",
-        "designation": "Halfling Slinger"
+        "text": "sling"
       },
       "Model§Halfling Spearman": {
         "assets": {
@@ -2233,7 +2099,6 @@
             "Special Rule§Short Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Halfling"
@@ -2254,8 +2119,7 @@
             "statType": "rank"
           }
         },
-        "text": "spear and shield",
-        "designation": "Halfling Spearman"
+        "text": "spear and shield"
       },
       "Model§Halfling Thief": {
         "assets": {
@@ -2265,7 +2129,6 @@
             "Special Rule§Free Disengage"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Halfling"
@@ -2286,8 +2149,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon",
-        "designation": "Halfling Thief"
+        "text": "hand weapon"
       },
       "Model§Halfling Veteran": {
         "assets": {
@@ -2295,7 +2157,6 @@
             "Special Rule§Short Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Halfling"
@@ -2316,8 +2177,7 @@
             "statType": "rank"
           }
         },
-        "text": "chainmail, shield and hand weapon",
-        "designation": "Halfling Veteran"
+        "text": "chainmail, shield and hand weapon"
       },
       "Model§Halfling Villager": {
         "assets": {
@@ -2326,7 +2186,6 @@
             "Special Rule§Shooter (Short)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Halfling"
@@ -2347,8 +2206,7 @@
             "statType": "rank"
           }
         },
-        "text": "club, stones",
-        "designation": "Halfling Villager"
+        "text": "club, stones"
       },
       "Model§Halfling Wisewoman": {
         "assets": {
@@ -2357,7 +2215,6 @@
             "Special Rule§Magic-User"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Halfling"
@@ -2378,8 +2235,7 @@
             "statType": "rank"
           }
         },
-        "text": "staff",
-        "designation": "Halfling Wisewoman"
+        "text": "staff"
       },
       "Model§Human Barbarian Warrior": {
         "assets": {
@@ -2387,7 +2243,6 @@
             "Special Rule§Fearless"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2408,8 +2263,7 @@
             "statType": "rank"
           }
         },
-        "text": "shield and spear and/or sword",
-        "designation": "Human Barbarian Warrior"
+        "text": "shield and spear and/or sword"
       },
       "Model§Human Warrior": {
         "assets": {
@@ -2417,7 +2271,6 @@
             ""
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2438,8 +2291,7 @@
             "statType": "rank"
           }
         },
-        "text": "shield and spear and/or sword",
-        "designation": "Human Warrior"
+        "text": "shield and spear and/or sword"
       },
       "Model§Human, Archer": {
         "assets": {
@@ -2447,7 +2299,6 @@
             "Special Rule§Shooter (Long)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2468,8 +2319,7 @@
             "statType": "rank"
           }
         },
-        "text": "longbow or composite bow",
-        "designation": "Human, Archer"
+        "text": "longbow or composite bow"
       },
       "Model§Human, Assassin": {
         "assets": {
@@ -2478,7 +2328,6 @@
             "Special Rule§Assassin"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2499,8 +2348,7 @@
             "statType": "rank"
           }
         },
-        "text": "dagger",
-        "designation": "Human, Assassin"
+        "text": "dagger"
       },
       "Model§Human, Child": {
         "assets": {
@@ -2508,7 +2356,6 @@
             ""
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2529,8 +2376,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Human, Child"
+        "text": ""
       },
       "Model§Human, City Militia": {
         "assets": {
@@ -2538,7 +2384,6 @@
             ""
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2559,8 +2404,7 @@
             "statType": "rank"
           }
         },
-        "text": "club or spear",
-        "designation": "Human, City Militia"
+        "text": "club or spear"
       },
       "Model§Human, Cleric": {
         "assets": {
@@ -2568,7 +2412,6 @@
             "Special Rule§Cleric"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2589,8 +2432,7 @@
             "statType": "rank"
           }
         },
-        "text": "shield, chainmail, mace",
-        "designation": "Human, Cleric"
+        "text": "shield, chainmail, mace"
       },
       "Model§Human, Druid": {
         "assets": {
@@ -2599,7 +2441,6 @@
             "Special Rule§Forester"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2620,8 +2461,7 @@
             "statType": "rank"
           }
         },
-        "text": "staff",
-        "designation": "Human, Druid"
+        "text": "staff"
       },
       "Model§Human, Heavy Cavalry": {
         "assets": {
@@ -2630,7 +2470,6 @@
             "Long Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2651,8 +2490,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword or mace, shield, lance, armor",
-        "designation": "Human, Heavy Cavalry"
+        "text": "sword or mace, shield, lance, armor"
       },
       "Model§Human, Heavy Infantry": {
         "assets": {
@@ -2660,7 +2498,6 @@
             "Special Rule§Short Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2681,8 +2518,7 @@
             "statType": "rank"
           }
         },
-        "text": "shield, armor, handweapon",
-        "designation": "Human, Heavy Infantry"
+        "text": "shield, armor, handweapon"
       },
       "Model§Human, Hunter": {
         "assets": {
@@ -2691,7 +2527,6 @@
             "Lethal vs. Animals"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2712,8 +2547,7 @@
             "statType": "rank"
           }
         },
-        "text": "shortbow",
-        "designation": "Human, Hunter"
+        "text": "shortbow"
       },
       "Model§Human, Leader": {
         "assets": {
@@ -2721,7 +2555,6 @@
             "Special Rule§Leader"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2742,8 +2575,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword or spear and shield",
-        "designation": "Human, Leader"
+        "text": "sword or spear and shield"
       },
       "Model§Human, Light Cavalry": {
         "assets": {
@@ -2752,7 +2584,6 @@
             "Long Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2773,8 +2604,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword or spear",
-        "designation": "Human, Light Cavalry"
+        "text": "sword or spear"
       },
       "Model§Human, Light Cavalry, Archer": {
         "assets": {
@@ -2784,7 +2614,6 @@
             "Special Rule§Shooter (Medium)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2805,8 +2634,7 @@
             "statType": "rank"
           }
         },
-        "text": "shortbow",
-        "designation": "Human, Light Cavalry, Archer"
+        "text": "shortbow"
       },
       "Model§Human, Light Infantry": {
         "assets": {
@@ -2814,7 +2642,6 @@
             "Special Rule§Shooter (Medium)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2835,8 +2662,7 @@
             "statType": "rank"
           }
         },
-        "text": "sling, javelin or shortbow",
-        "designation": "Human, Light Infantry"
+        "text": "sling, javelin or shortbow"
       },
       "Model§Human, Magic-User": {
         "assets": {
@@ -2844,7 +2670,6 @@
             "Special Rule§Magic-User"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2865,8 +2690,7 @@
             "statType": "rank"
           }
         },
-        "text": "dagger",
-        "designation": "Human, Magic-User"
+        "text": "dagger"
       },
       "Model§Human, Medium Cavalry": {
         "assets": {
@@ -2875,7 +2699,6 @@
             "Long Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2896,8 +2719,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon, light armor",
-        "designation": "Human, Medium Cavalry"
+        "text": "hand weapon, light armor"
       },
       "Model§Human, Peasant or Villager": {
         "assets": {
@@ -2905,7 +2727,6 @@
             ""
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2926,8 +2747,7 @@
             "statType": "rank"
           }
         },
-        "text": "stick",
-        "designation": "Human, Peasant or Villager"
+        "text": "stick"
       },
       "Model§Human, Thief": {
         "assets": {
@@ -2935,7 +2755,6 @@
             "Special Rule§Stealth"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2956,8 +2775,7 @@
             "statType": "rank"
           }
         },
-        "text": "dagger",
-        "designation": "Human, Thief"
+        "text": "dagger"
       },
       "Model§Human, Undead Hunter": {
         "assets": {
@@ -2966,7 +2784,6 @@
             "Special Rule§Shooter (Long)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -2987,8 +2804,7 @@
             "statType": "rank"
           }
         },
-        "text": "crossbow",
-        "designation": "Human, Undead Hunter"
+        "text": "crossbow"
       },
       "Model§Human, Warmage": {
         "assets": {
@@ -2996,7 +2812,6 @@
             "Special Rule§Magic-User"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -3017,8 +2832,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword",
-        "designation": "Human, Warmage"
+        "text": "sword"
       },
       "Model§Human, Witch Hunter": {
         "assets": {
@@ -3027,7 +2841,6 @@
             "Special Rule§Shooter (Long)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -3048,8 +2861,7 @@
             "statType": "rank"
           }
         },
-        "text": "crossbow or musket",
-        "designation": "Human, Witch Hunter"
+        "text": "crossbow or musket"
       },
       "Model§Human, Wizard’s Apprentice": {
         "assets": {
@@ -3057,7 +2869,6 @@
             "Special Rule§Magic-User"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Human"
@@ -3078,8 +2889,7 @@
             "statType": "rank"
           }
         },
-        "text": "knife",
-        "designation": "Human, Wizard’s Apprentice"
+        "text": "knife"
       },
       "Model§Hydra": {
         "assets": {
@@ -3089,7 +2899,6 @@
             "Special Rule§Tough"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dragon"
@@ -3110,8 +2919,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Hydra"
+        "text": ""
       },
       "Model§Hyena Man Archer": {
         "assets": {
@@ -3119,7 +2927,6 @@
             "Special Rule§Shooter (Medium)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Hyena"
@@ -3140,8 +2947,7 @@
             "statType": "rank"
           }
         },
-        "text": "bow, short sword",
-        "designation": "Hyena Man Archer"
+        "text": "bow, short sword"
       },
       "Model§Hyena Man Chieftain": {
         "assets": {
@@ -3150,7 +2956,6 @@
             "Special Rule§Savage"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Hyena"
@@ -3171,8 +2976,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield",
-        "designation": "Hyena Man Chieftain"
+        "text": "hand weapon and shield"
       },
       "Model§Hyena Man Guard": {
         "assets": {
@@ -3180,7 +2984,6 @@
             "Special Rule§Savage"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Hyena"
@@ -3201,8 +3004,7 @@
             "statType": "rank"
           }
         },
-        "text": "two handed weapon",
-        "designation": "Hyena Man Guard"
+        "text": "two handed weapon"
       },
       "Model§Hyena Man Warrior": {
         "assets": {
@@ -3210,7 +3012,6 @@
             "Special Rule§Savage"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Hyena"
@@ -3231,8 +3032,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield",
-        "designation": "Hyena Man Warrior"
+        "text": "hand weapon and shield"
       },
       "Model§Kobold Commander": {
         "assets": {
@@ -3241,7 +3041,6 @@
             "Special Rule§Leader"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Kobold"
@@ -3262,8 +3061,7 @@
             "statType": "rank"
           }
         },
-        "text": "musician, standard-bearer",
-        "designation": "Kobold Commander"
+        "text": "musician, standard-bearer"
       },
       "Model§Kobold Hero": {
         "assets": {
@@ -3273,7 +3071,6 @@
             "Special Rule§Hero"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Kobold"
@@ -3294,8 +3091,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Kobold Hero"
+        "text": ""
       },
       "Model§Kobold Infiltrator": {
         "assets": {
@@ -3304,7 +3100,6 @@
             "Special Rule§Free Disengage"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Kobold"
@@ -3325,8 +3120,7 @@
             "statType": "rank"
           }
         },
-        "text": "knife",
-        "designation": "Kobold Infiltrator"
+        "text": "knife"
       },
       "Model§Kobold Shaman": {
         "assets": {
@@ -3335,7 +3129,6 @@
             "Special Rule§Magic-User"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Kobold"
@@ -3356,8 +3149,7 @@
             "statType": "rank"
           }
         },
-        "text": "staff",
-        "designation": "Kobold Shaman"
+        "text": "staff"
       },
       "Model§Kobold Skirmisher": {
         "assets": {
@@ -3367,7 +3159,6 @@
             "Special Rule§Shooter (Short)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Kobold"
@@ -3388,8 +3179,7 @@
             "statType": "rank"
           }
         },
-        "text": "javelin",
-        "designation": "Kobold Skirmisher"
+        "text": "javelin"
       },
       "Model§Kobold Warrior": {
         "assets": {
@@ -3398,7 +3188,6 @@
             "Special Rule§Gregarious"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Kobold"
@@ -3419,8 +3208,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield",
-        "designation": "Kobold Warrior"
+        "text": "hand weapon and shield"
       },
       "Model§Lich": {
         "assets": {
@@ -3430,7 +3218,6 @@
             "Special Rule§Terror"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -3451,8 +3238,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Lich"
+        "text": ""
       },
       "Model§Lion": {
         "assets": {
@@ -3461,7 +3247,6 @@
             "Special Rule§Savage"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Cat"
@@ -3482,8 +3267,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Lion"
+        "text": ""
       },
       "Model§Lion-Centaur": {
         "assets": {
@@ -3491,7 +3275,6 @@
             "Long Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Cat"
@@ -3512,8 +3295,7 @@
             "statType": "rank"
           }
         },
-        "text": "spear or sword",
-        "designation": "Lion-Centaur"
+        "text": "spear or sword"
       },
       "Model§Lion-man Champion": {
         "assets": {
@@ -3522,7 +3304,6 @@
             "Special Rule§Tough"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Cat"
@@ -3543,8 +3324,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword",
-        "designation": "Lion-man Champion"
+        "text": "sword"
       },
       "Model§Lion-man Commander": {
         "assets": {
@@ -3553,7 +3333,6 @@
             "Special Rule§Leader"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Cat"
@@ -3574,8 +3353,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword",
-        "designation": "Lion-man Commander"
+        "text": "sword"
       },
       "Model§Lion-man Warrior": {
         "assets": {
@@ -3583,7 +3361,6 @@
             "Special Rule§Fearless"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Cat"
@@ -3604,8 +3381,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword",
-        "designation": "Lion-man Warrior"
+        "text": "sword"
       },
       "Model§Lizardman Champion": {
         "assets": {
@@ -3615,7 +3391,6 @@
             "Special Rule§Tough"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Lizardman"
@@ -3636,8 +3411,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield",
-        "designation": "Lizardman Champion"
+        "text": "hand weapon and shield"
       },
       "Model§Lizardman Leader": {
         "assets": {
@@ -3647,7 +3421,6 @@
             "Special Rule§Leader"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Lizardman"
@@ -3668,8 +3441,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield",
-        "designation": "Lizardman Leader"
+        "text": "hand weapon and shield"
       },
       "Model§Lizardman Shaman": {
         "assets": {
@@ -3678,7 +3450,6 @@
             "Special Rule§Magic-User"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Lizardman"
@@ -3699,8 +3470,7 @@
             "statType": "rank"
           }
         },
-        "text": "staff",
-        "designation": "Lizardman Shaman"
+        "text": "staff"
       },
       "Model§Lizardman skirmisher": {
         "assets": {
@@ -3710,7 +3480,6 @@
             "Special Rule§Shooter (Short)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Lizardman"
@@ -3731,8 +3500,7 @@
             "statType": "rank"
           }
         },
-        "text": "javelins and shield",
-        "designation": "Lizardman skirmisher"
+        "text": "javelins and shield"
       },
       "Model§Lizardman warrior": {
         "assets": {
@@ -3741,7 +3509,6 @@
             "Special Rule§Tailslap"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Lizardman"
@@ -3762,8 +3529,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield",
-        "designation": "Lizardman warrior"
+        "text": "hand weapon and shield"
       },
       "Model§Lynx Scout": {
         "assets": {
@@ -3772,7 +3538,6 @@
             "Special Rule§Stealth"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Cat"
@@ -3793,8 +3558,7 @@
             "statType": "rank"
           }
         },
-        "text": "shortbow, shortsword",
-        "designation": "Lynx Scout"
+        "text": "shortbow, shortsword"
       },
       "Model§Medusa": {
         "assets": {
@@ -3804,7 +3568,6 @@
             "Special Rule§Poison"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Monster"
@@ -3825,8 +3588,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Medusa"
+        "text": ""
       },
       "Model§Mermen warrior": {
         "assets": {
@@ -3834,7 +3596,6 @@
             "Special Rule§Amphibious"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Merman"
@@ -3855,8 +3616,7 @@
             "statType": "rank"
           }
         },
-        "text": "spear or trident",
-        "designation": "Mermen warrior"
+        "text": "spear or trident"
       },
       "Model§Mermen wizard": {
         "assets": {
@@ -3865,7 +3625,6 @@
             "Special Rule§Magic-User"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Merman"
@@ -3886,8 +3645,7 @@
             "statType": "rank"
           }
         },
-        "text": "spear",
-        "designation": "Mermen wizard"
+        "text": "spear"
       },
       "Model§Minotaur Commander": {
         "assets": {
@@ -3898,7 +3656,6 @@
             "Special Rule§Leader"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Minotaur"
@@ -3919,8 +3676,7 @@
             "statType": "rank"
           }
         },
-        "text": "two handed weapon",
-        "designation": "Minotaur Commander"
+        "text": "two handed weapon"
       },
       "Model§Minotaur Guard": {
         "assets": {
@@ -3930,7 +3686,6 @@
             "Special Rule§Tough"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Minotaur"
@@ -3951,8 +3706,7 @@
             "statType": "rank"
           }
         },
-        "text": "two handed weapon",
-        "designation": "Minotaur Guard"
+        "text": "two handed weapon"
       },
       "Model§Minotaur Skirmisher": {
         "assets": {
@@ -3962,7 +3716,6 @@
             "Long Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Minotaur"
@@ -3983,8 +3736,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon",
-        "designation": "Minotaur Skirmisher"
+        "text": "hand weapon"
       },
       "Model§Minotaur Warrior": {
         "assets": {
@@ -3993,7 +3745,6 @@
             "Special Rule§Savage"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Minotaur"
@@ -4014,8 +3765,7 @@
             "statType": "rank"
           }
         },
-        "text": "maul or warhammer",
-        "designation": "Minotaur Warrior"
+        "text": "maul or warhammer"
       },
       "Model§Mounted Wraith Lord": {
         "assets": {
@@ -4027,7 +3777,6 @@
             "Long Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -4048,8 +3797,7 @@
             "statType": "rank"
           }
         },
-        "text": "on undead manticore",
-        "designation": "Mounted Wraith Lord"
+        "text": "on undead manticore"
       },
       "Model§Mummy": {
         "assets": {
@@ -4060,7 +3808,6 @@
             "Special Rule§Slow"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -4081,8 +3828,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Mummy"
+        "text": ""
       },
       "Model§Ogre Warchief": {
         "assets": {
@@ -4092,7 +3838,6 @@
             "Special Rule§Leader"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -4113,8 +3858,7 @@
             "statType": "rank"
           }
         },
-        "text": "two handed weapon",
-        "designation": "Ogre Warchief"
+        "text": "two handed weapon"
       },
       "Model§Ogre Warrior": {
         "assets": {
@@ -4123,7 +3867,6 @@
             "Special Rule§Big"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -4144,8 +3887,7 @@
             "statType": "rank"
           }
         },
-        "text": "two handed weapon",
-        "designation": "Ogre Warrior"
+        "text": "two handed weapon"
       },
       "Model§Orc Archer": {
         "assets": {
@@ -4153,7 +3895,6 @@
             "Special Rule§Shooter (Medium)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -4174,8 +3915,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword and bow",
-        "designation": "Orc Archer"
+        "text": "sword and bow"
       },
       "Model§Orc Boar Rider": {
         "assets": {
@@ -4184,7 +3924,6 @@
             "Long Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -4205,8 +3944,7 @@
             "statType": "rank"
           }
         },
-        "text": "riding boar, hand weapon",
-        "designation": "Orc Boar Rider"
+        "text": "riding boar, hand weapon"
       },
       "Model§Orc Champion": {
         "assets": {
@@ -4215,7 +3953,6 @@
             "Special Rule§Hero"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -4236,8 +3973,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield",
-        "designation": "Orc Champion"
+        "text": "hand weapon and shield"
       },
       "Model§Orc musician/standard bearer": {
         "assets": {
@@ -4245,7 +3981,6 @@
             "Special Rule§Leader"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -4266,8 +4001,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Orc musician/standard bearer"
+        "text": ""
       },
       "Model§Orc Shaman": {
         "assets": {
@@ -4275,7 +4009,6 @@
             "Special Rule§Magic-User"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -4296,8 +4029,7 @@
             "statType": "rank"
           }
         },
-        "text": "staff",
-        "designation": "Orc Shaman"
+        "text": "staff"
       },
       "Model§Orc Warchief": {
         "assets": {
@@ -4306,7 +4038,6 @@
             "Special Rule§Tough"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -4327,8 +4058,7 @@
             "statType": "rank"
           }
         },
-        "text": "chainmail, shield, hand weapon",
-        "designation": "Orc Warchief"
+        "text": "chainmail, shield, hand weapon"
       },
       "Model§Orc Warrior": {
         "assets": {
@@ -4336,7 +4066,6 @@
             ""
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -4357,8 +4086,7 @@
             "statType": "rank"
           }
         },
-        "text": "shield and sword or spear",
-        "designation": "Orc Warrior"
+        "text": "shield and sword or spear"
       },
       "Model§Panther-man Stalker": {
         "assets": {
@@ -4367,7 +4095,6 @@
             "Special Rule§Stealth"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Cat"
@@ -4388,8 +4115,7 @@
             "statType": "rank"
           }
         },
-        "text": "daggers",
-        "designation": "Panther-man Stalker"
+        "text": "daggers"
       },
       "Model§Ratman Assassin": {
         "assets": {
@@ -4400,7 +4126,6 @@
             "Special Rule§Stealth"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Rat"
@@ -4421,8 +4146,7 @@
             "statType": "rank"
           }
         },
-        "text": "poisoned dagger",
-        "designation": "Ratman Assassin"
+        "text": "poisoned dagger"
       },
       "Model§Ratman Champion": {
         "assets": {
@@ -4430,7 +4154,6 @@
             "Special Rule§Gregarious"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Rat"
@@ -4451,8 +4174,7 @@
             "statType": "rank"
           }
         },
-        "text": "two handed weapon",
-        "designation": "Ratman Champion"
+        "text": "two handed weapon"
       },
       "Model§Ratman Crossbowman": {
         "assets": {
@@ -4461,7 +4183,6 @@
             "Special Rule§Shooter (Long)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Rat"
@@ -4482,8 +4203,7 @@
             "statType": "rank"
           }
         },
-        "text": "crossbow, dagger",
-        "designation": "Ratman Crossbowman"
+        "text": "crossbow, dagger"
       },
       "Model§Ratman Hero": {
         "assets": {
@@ -4492,7 +4212,6 @@
             "Special Rule§Tough"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Rat"
@@ -4513,8 +4232,7 @@
             "statType": "rank"
           }
         },
-        "text": "two handed weapon",
-        "designation": "Ratman Hero"
+        "text": "two handed weapon"
       },
       "Model§Ratman Leader": {
         "assets": {
@@ -4522,7 +4240,6 @@
             "Special Rule§Leader"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Rat"
@@ -4543,8 +4260,7 @@
             "statType": "rank"
           }
         },
-        "text": "shield and sword",
-        "designation": "Ratman Leader"
+        "text": "shield and sword"
       },
       "Model§Ratman Musketeer": {
         "assets": {
@@ -4553,7 +4269,6 @@
             "Special Rule§Shooter (Long)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Rat"
@@ -4574,8 +4289,7 @@
             "statType": "rank"
           }
         },
-        "text": "musket, dagger",
-        "designation": "Ratman Musketeer"
+        "text": "musket, dagger"
       },
       "Model§Ratman Scout": {
         "assets": {
@@ -4584,7 +4298,6 @@
             "Special Rule§Stealth"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Rat"
@@ -4605,8 +4318,7 @@
             "statType": "rank"
           }
         },
-        "text": "shield and spear",
-        "designation": "Ratman Scout"
+        "text": "shield and spear"
       },
       "Model§Ratman Warrior": {
         "assets": {
@@ -4614,7 +4326,6 @@
             "Special Rule§Gregarious"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Rat"
@@ -4635,8 +4346,7 @@
             "statType": "rank"
           }
         },
-        "text": "shield and sword",
-        "designation": "Ratman Warrior"
+        "text": "shield and sword"
       },
       "Model§Ratman Wizard": {
         "assets": {
@@ -4645,7 +4355,6 @@
             "Special Rule§Magic-User"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Rat"
@@ -4666,8 +4375,7 @@
             "statType": "rank"
           }
         },
-        "text": "staff",
-        "designation": "Ratman Wizard"
+        "text": "staff"
       },
       "Model§Savage Orc heavy infantry": {
         "assets": {
@@ -4676,7 +4384,6 @@
             "Special Rule§Short Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -4697,8 +4404,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield, banded armor",
-        "designation": "Savage Orc heavy infantry"
+        "text": "hand weapon and shield, banded armor"
       },
       "Model§Savage Orc warrior": {
         "assets": {
@@ -4706,7 +4412,6 @@
             "Special Rule§Savage"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Goblinoid"
@@ -4727,8 +4432,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield or two handed weapon",
-        "designation": "Savage Orc warrior"
+        "text": "hand weapon and shield or two handed weapon"
       },
       "Model§Shrieking Fungus": {
         "assets": {
@@ -4738,7 +4442,6 @@
             "Special Rule§Shooter (Short)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Ooze"
@@ -4759,8 +4462,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Shrieking Fungus"
+        "text": ""
       },
       "Model§Skeleton Boar": {
         "assets": {
@@ -4770,7 +4472,6 @@
             "Long Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -4791,8 +4492,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Skeleton Boar"
+        "text": ""
       },
       "Model§Skeleton Dwarf": {
         "assets": {
@@ -4801,7 +4501,6 @@
             "Special Rule§Short Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -4822,8 +4521,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield",
-        "designation": "Skeleton Dwarf"
+        "text": "hand weapon and shield"
       },
       "Model§Skeleton Dwarf Rider": {
         "assets": {
@@ -4832,7 +4530,6 @@
             "Special Rule§Mounted"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -4853,8 +4550,7 @@
             "statType": "rank"
           }
         },
-        "text": "riding skeleton boar or bear, mace or axe",
-        "designation": "Skeleton Dwarf Rider"
+        "text": "riding skeleton boar or bear, mace or axe"
       },
       "Model§Skeleton Human": {
         "assets": {
@@ -4862,7 +4558,6 @@
             "Special Rule§Undead"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -4883,8 +4578,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield",
-        "designation": "Skeleton Human"
+        "text": "hand weapon and shield"
       },
       "Model§Skeleton Human, Archer": {
         "assets": {
@@ -4893,7 +4587,6 @@
             "Special Rule§Shooter (Medium)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -4914,8 +4607,7 @@
             "statType": "rank"
           }
         },
-        "text": "bow",
-        "designation": "Skeleton Human, Archer"
+        "text": "bow"
       },
       "Model§Skeleton Lion-man": {
         "assets": {
@@ -4923,7 +4615,6 @@
             "Special Rule§Undead"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -4944,8 +4635,7 @@
             "statType": "rank"
           }
         },
-        "text": "two handed weapon",
-        "designation": "Skeleton Lion-man"
+        "text": "two handed weapon"
       },
       "Model§Skeleton Orc": {
         "assets": {
@@ -4953,7 +4643,6 @@
             "Special Rule§Undead"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -4974,8 +4663,7 @@
             "statType": "rank"
           }
         },
-        "text": "hand weapon and shield",
-        "designation": "Skeleton Orc"
+        "text": "hand weapon and shield"
       },
       "Model§Skeleton Orc Rider": {
         "assets": {
@@ -4985,7 +4673,6 @@
             "Long Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -5006,8 +4693,7 @@
             "statType": "rank"
           }
         },
-        "text": "riding skeleton boar, hand weapon and shield",
-        "designation": "Skeleton Orc Rider"
+        "text": "riding skeleton boar, hand weapon and shield"
       },
       "Model§Skeleton Wolf": {
         "assets": {
@@ -5017,7 +4703,6 @@
             "Long Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -5038,8 +4723,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Skeleton Wolf"
+        "text": ""
       },
       "Model§Small Dragon": {
         "assets": {
@@ -5049,7 +4733,6 @@
             "Special Rule§Shooter (Long)"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dragon"
@@ -5070,8 +4753,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Small Dragon"
+        "text": ""
       },
       "Model§Smilodon Hero": {
         "assets": {
@@ -5080,7 +4762,6 @@
             "Special Rule§Hero"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Cat"
@@ -5101,8 +4782,7 @@
             "statType": "rank"
           }
         },
-        "text": "greatsword",
-        "designation": "Smilodon Hero"
+        "text": "greatsword"
       },
       "Model§Smilodon Warrior": {
         "assets": {
@@ -5110,7 +4790,6 @@
             "Special Rule§Savage"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Cat"
@@ -5131,8 +4810,7 @@
             "statType": "rank"
           }
         },
-        "text": "greatsword, gauntlets",
-        "designation": "Smilodon Warrior"
+        "text": "greatsword, gauntlets"
       },
       "Model§Spectre": {
         "assets": {
@@ -5143,7 +4821,6 @@
             "Special Rule§Terror"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -5164,8 +4841,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Spectre"
+        "text": ""
       },
       "Model§Steel Golem": {
         "assets": {
@@ -5176,7 +4852,6 @@
             "Special Rule§Tough"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Golem"
@@ -5197,8 +4872,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Steel Golem"
+        "text": ""
       },
       "Model§Stone Golem": {
         "assets": {
@@ -5209,7 +4883,6 @@
             "Special Rule§Tough"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Golem"
@@ -5230,8 +4903,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Stone Golem"
+        "text": ""
       },
       "Model§Swarm of Ants": {
         "assets": {
@@ -5242,7 +4914,6 @@
             "Special Rule§Short Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Swarm"
@@ -5263,8 +4934,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Swarm of Ants"
+        "text": ""
       },
       "Model§Swarm of Bats": {
         "assets": {
@@ -5274,7 +4944,6 @@
             "Special Rule§Free Disengage"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Swarm"
@@ -5295,8 +4964,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Swarm of Bats"
+        "text": ""
       },
       "Model§Swarm of Bees or Wasps": {
         "assets": {
@@ -5309,7 +4977,6 @@
             "Special Rule§Short Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Swarm"
@@ -5330,8 +4997,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Swarm of Bees or Wasps"
+        "text": ""
       },
       "Model§Swarm of Centipedes": {
         "assets": {
@@ -5343,7 +5009,6 @@
             "Special Rule§Short Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Swarm"
@@ -5364,8 +5029,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Swarm of Centipedes"
+        "text": ""
       },
       "Model§Swarm of Frogs": {
         "assets": {
@@ -5375,7 +5039,6 @@
             "Special Rule§Short Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Swarm"
@@ -5396,8 +5059,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Swarm of Frogs"
+        "text": ""
       },
       "Model§Swarm of Rats": {
         "assets": {
@@ -5406,7 +5068,6 @@
             "Special Rule§Clinging"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Swarm"
@@ -5427,8 +5088,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Swarm of Rats"
+        "text": ""
       },
       "Model§Tarrasque": {
         "assets": {
@@ -5439,7 +5099,6 @@
             "Long Move"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Monster"
@@ -5460,8 +5119,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Tarrasque"
+        "text": ""
       },
       "Model§Terror Mold": {
         "assets": {
@@ -5473,7 +5131,6 @@
             "Special Rule§Animal"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Ooze"
@@ -5494,8 +5151,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Terror Mold"
+        "text": ""
       },
       "Model§Troll": {
         "assets": {
@@ -5505,7 +5161,6 @@
             "Special Rule§Big"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Monster"
@@ -5526,8 +5181,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Troll"
+        "text": ""
       },
       "Model§Unicorn": {
         "assets": {
@@ -5537,7 +5191,6 @@
             "Special Rule§Forester"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Monster"
@@ -5558,8 +5211,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Unicorn"
+        "text": ""
       },
       "Model§Vampire": {
         "assets": {
@@ -5569,7 +5221,6 @@
             "Special Rule§Terror"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -5590,8 +5241,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Vampire"
+        "text": ""
       },
       "Model§Vampire Lord": {
         "assets": {
@@ -5602,7 +5252,6 @@
             "Special Rule§Flying"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -5623,8 +5272,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Vampire Lord"
+        "text": ""
       },
       "Model§Water Elemental": {
         "assets": {
@@ -5634,7 +5282,6 @@
             "Special Rule§Free Disengage"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Elemental"
@@ -5655,8 +5302,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Water Elemental"
+        "text": ""
       },
       "Model§Wood Elf Archer": {
         "assets": {
@@ -5665,7 +5311,6 @@
             "Special Rule§Forester"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Elf"
@@ -5686,8 +5331,7 @@
             "statType": "rank"
           }
         },
-        "text": "shortsword, longbow",
-        "designation": "Wood Elf Archer"
+        "text": "shortsword, longbow"
       },
       "Model§Wood Elf Commander": {
         "assets": {
@@ -5696,7 +5340,6 @@
             "Special Rule§Forester"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Elf"
@@ -5717,8 +5360,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword and shield, chainmail",
-        "designation": "Wood Elf Commander"
+        "text": "sword and shield, chainmail"
       },
       "Model§Wood Elf Warrior": {
         "assets": {
@@ -5726,7 +5368,6 @@
             "Special Rule§Forester"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Elf"
@@ -5747,8 +5388,7 @@
             "statType": "rank"
           }
         },
-        "text": "sword, leather armor",
-        "designation": "Wood Elf Warrior"
+        "text": "sword, leather armor"
       },
       "Model§Wraith": {
         "assets": {
@@ -5758,7 +5398,6 @@
             "Special Rule§Flying"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -5779,8 +5418,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Wraith"
+        "text": ""
       },
       "Model§Wraith Lord": {
         "assets": {
@@ -5791,7 +5429,6 @@
             "Special Rule§Flying"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -5812,8 +5449,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Wraith Lord"
+        "text": ""
       },
       "Model§Wyvern": {
         "assets": {
@@ -5825,7 +5461,6 @@
             "Special Rule§Tough"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Dragon"
@@ -5846,8 +5481,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Wyvern"
+        "text": ""
       },
       "Model§Zombie": {
         "assets": {
@@ -5857,7 +5491,6 @@
             "Special Rule§Slow"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -5878,8 +5511,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Zombie"
+        "text": ""
       },
       "Model§Zombie Lord": {
         "assets": {
@@ -5890,7 +5522,6 @@
             "Special Rule§Leader"
           ]
         },
-        "classification": "Model",
         "keywords": {
           "Keywords": [
             "Undead"
@@ -5911,8 +5542,7 @@
             "statType": "rank"
           }
         },
-        "text": "",
-        "designation": "Zombie Lord"
+        "text": ""
       },
       "Roster§Warband": {
         "allowed": {
@@ -5927,7 +5557,6 @@
           "Type": "conceptual",
           "Unique": true
         },
-        "classification": "Roster",
         "stats": {
           "Points": {
             "position": {
@@ -5941,186 +5570,109 @@
               "scroll-unfurled"
             ]
           }
-        },
-        "designation": "Warband"
+        }
       },
       "Special Rule§Amphibious": {
-        "classification": "Special Rule",
-        "text": "Amphibious models may cross bogs, swamps and any kind of water terrain with no movement penalty.",
-        "designation": "Amphibious"
+        "text": "Amphibious models may cross bogs, swamps and any kind of water terrain with no movement penalty."
       },
       "Special Rule§Animal": {
-        "classification": "Special Rule",
-        "text": "Animal models do not receive experience points in campaigns. No more than 50% of the members of a warband may be animals. Animals cannot use magic items. Animals automatically rout when the last non- animal model in their warband is killed.",
-        "designation": "Animal"
+        "text": "Animal models do not receive experience points in campaigns. No more than 50% of the members of a warband may be animals. Animals cannot use magic items. Animals automatically rout when the last non- animal model in their warband is killed."
       },
       "Special Rule§Artificial": {
-        "classification": "Special Rule",
-        "text": "Artificial models include non-living creatures such as elementals, automatons, golems or robots. They are immune to poison and do not suffer gruesome kills (treat a gruesome kill as a normal kill). They do not make Morale rolls for Gruesome Kills or Terror. They make normal Morale rolls for the loss of a leader or if the warband is reduced to 50% – their “programming” kicks in and tells them that in some cases it is better to run away and “live to fight another day”.",
-        "designation": "Artificial"
+        "text": "Artificial models include non-living creatures such as elementals, automatons, golems or robots. They are immune to poison and do not suffer gruesome kills (treat a gruesome kill as a normal kill). They do not make Morale rolls for Gruesome Kills or Terror. They make normal Morale rolls for the loss of a leader or if the warband is reduced to 50% – their “programming” kicks in and tells them that in some cases it is better to run away and “live to fight another day”."
       },
       "Special Rule§Assassin": {
-        "classification": "Special Rule",
-        "text": "An Assassin is specially trained to find weak spots in an opponent’s defenses. When Assassins beat an opponent in combat they kill him, with no need for doubling his score. Assassins score gruesome kills normally (i.e., they need to treble the opponent’s score to inflict a gruesome kill). The Assassin rule works only against living creatures. It does not work against targets with the Artificial or Undead rules. The Assassin rule applies both to ranged and hand to hand combat.",
-        "designation": "Assassin"
+        "text": "An Assassin is specially trained to find weak spots in an opponent’s defenses. When Assassins beat an opponent in combat they kill him, with no need for doubling his score. Assassins score gruesome kills normally (i.e., they need to treble the opponent’s score to inflict a gruesome kill). The Assassin rule works only against living creatures. It does not work against targets with the Artificial or Undead rules. The Assassin rule applies both to ranged and hand to hand combat."
       },
       "Special Rule§Big": {
-        "classification": "Special Rule",
-        "text": "Big creatures (ogres, trolls and the like) have +1 in hand to hand versus smaller folk, but are targeted at +1 by ranged attacks. See Huge for even bigger models.",
-        "designation": "Big"
+        "text": "Big creatures (ogres, trolls and the like) have +1 in hand to hand versus smaller folk, but are targeted at +1 by ranged attacks. See Huge for even bigger models."
       },
       "Special Rule§Cleric": {
-        "classification": "Special Rule",
-        "text": "All ranged or hand to hand attacks from a Cleric count as Lethal against any Undead model (i.e., they kill the model without having to double the opponent’s score). Clerics can perform healing magic. To do so, a cleric must be adjacent to the model to be healed. By rolling one or more successes on his Quality roll, a cleric heals that many points of Quality loss (for example to a model who has lost Quality due to the effects of Poison, or a model with the Tough special rule who has been wounded). Two successes can also be used to make a fallen model stand up. If the cleric ever rolls three failures during one of these Quality rolls, though, his deity is displeased with him. The cleric can’t cast spells or affect the undead for the remainder of the game (in a campaign, the cleric’s powers return at the beginning of the next game).",
-        "designation": "Cleric"
+        "text": "All ranged or hand to hand attacks from a Cleric count as Lethal against any Undead model (i.e., they kill the model without having to double the opponent’s score). Clerics can perform healing magic. To do so, a cleric must be adjacent to the model to be healed. By rolling one or more successes on his Quality roll, a cleric heals that many points of Quality loss (for example to a model who has lost Quality due to the effects of Poison, or a model with the Tough special rule who has been wounded). Two successes can also be used to make a fallen model stand up. If the cleric ever rolls three failures during one of these Quality rolls, though, his deity is displeased with him. The cleric can’t cast spells or affect the undead for the remainder of the game (in a campaign, the cleric’s powers return at the beginning of the next game)."
       },
       "Special Rule§Clinging": {
-        "classification": "Special Rule",
-        "text": "Models with the Clinging special rule can walk on walls, ceilings and trees. Examples include giant lizards, centipedes and spiders. Models with Clinging do not take damage from falls. A model on a wall counts as in higher elevation vs a creature on the ground.",
-        "designation": "Clinging"
+        "text": "Models with the Clinging special rule can walk on walls, ceilings and trees. Examples include giant lizards, centipedes and spiders. Models with Clinging do not take damage from falls. A model on a wall counts as in higher elevation vs a creature on the ground."
       },
       "Special Rule§Entangle": {
-        "classification": "Special Rule",
-        "text": "The Entangle special rule represents the ability to shoot spiderwebs or any other attack that could glue an opponent on the spot or hinder his movement. Entangle works just like the ability to cast Transfix spells (so range is Short if one action is used, Medium if two are used, and Long if three are used). The main difference is that the entangle is **not** automatically broken if the entangler is killed.",
-        "designation": "Entangle"
+        "text": "The Entangle special rule represents the ability to shoot spiderwebs or any other attack that could glue an opponent on the spot or hinder his movement. Entangle works just like the ability to cast Transfix spells (so range is Short if one action is used, Medium if two are used, and Long if three are used). The main difference is that the entangle is **not** automatically broken if the entangler is killed."
       },
       "Special Rule§Fearless": {
-        "classification": "Special Rule",
-        "text": "Fearless models are immune to the effect of Gruesome Deaths and to Terror. They make Morale rolls normally for the loss of a Leader or when their Warband loses 50% of members.",
-        "designation": "Fearless"
+        "text": "Fearless models are immune to the effect of Gruesome Deaths and to Terror. They make Morale rolls normally for the loss of a Leader or when their Warband loses 50% of members."
       },
       "Special Rule§Flying": {
-        "classification": "Special Rule",
-        "text": "Flying models can freely move above obstacles such as trees, boulders and even non-flying enemy models. They have Free Disengage against non flying models. Flying models always land at the end of their move. Combat between flying and ground models is conducted as normal. A flying model takes no special damage when he falls during combat, even when the combat is between two aerial combatants – the models have means to stop the fall.",
-        "designation": "Flying"
+        "text": "Flying models can freely move above obstacles such as trees, boulders and even non-flying enemy models. They have Free Disengage against non flying models. Flying models always land at the end of their move. Combat between flying and ground models is conducted as normal. A flying model takes no special damage when he falls during combat, even when the combat is between two aerial combatants – the models have means to stop the fall."
       },
       "Special Rule§Forester": {
-        "classification": "Special Rule",
-        "text": "A Forester is trained to move across wooded areas. Foresters suffer no movement reduction when crossing woods of any kind.",
-        "designation": "Forester"
+        "text": "A Forester is trained to move across wooded areas. Foresters suffer no movement reduction when crossing woods of any kind."
       },
       "Special Rule§Free Disengage": {
-        "classification": "Special Rule",
-        "text": "A model with the Free Disengage special rule doesn’t receive a free hack when it is leaving a hand to hand combat engagement.",
-        "designation": "Free Disengage"
+        "text": "A model with the Free Disengage special rule doesn’t receive a free hack when it is leaving a hand to hand combat engagement."
       },
       "Special Rule§Gregarious": {
-        "classification": "Special Rule",
-        "text": "Gregarious models have +1 on their Quality rolls when attempting group moves. Examples of Gregarious creatures include some small goblinoids (goblins, kobolds etc.) who aren’t especially brave or effective in single combat but can swarm over their opponents when following the orders of a capable leader.",
-        "designation": "Gregarious"
+        "text": "Gregarious models have +1 on their Quality rolls when attempting group moves. Examples of Gregarious creatures include some small goblinoids (goblins, kobolds etc.) who aren’t especially brave or effective in single combat but can swarm over their opponents when following the orders of a capable leader."
       },
       "Special Rule§Hero": {
-        "classification": "Special Rule",
-        "text": "Heroes always roll one automatic success, regardless of their Quality. So if you activate a Hero on two dice, you roll only one and assume that the other die rolled a 6. In addition, once per game, a Hero model can reroll one die roll, be it a Combat or Quality roll. The result of the second die roll is final, even if it is worse than the previous one.",
-        "designation": "Hero"
+        "text": "Heroes always roll one automatic success, regardless of their Quality. So if you activate a Hero on two dice, you roll only one and assume that the other die rolled a 6. In addition, once per game, a Hero model can reroll one die roll, be it a Combat or Quality roll. The result of the second die roll is final, even if it is worse than the previous one."
       },
       "Special Rule§Huge": {
-        "classification": "Special Rule",
-        "text": "Huge creatures (dragons and the like) have +1 to hit smaller models (this includes models with the Big special rule!) and are targeted at +1 by ranged attacks.",
-        "designation": "Huge"
+        "text": "Huge creatures (dragons and the like) have +1 to hit smaller models (this includes models with the Big special rule!) and are targeted at +1 by ranged attacks."
       },
       "Special Rule§Leader": {
-        "classification": "Special Rule",
-        "text": "Leaders influence models’ quality and morale. Any friendly model within Long distance from a Leader has its Quality rolls (including Morale rolls) increased by one. When a Leader dies, though, all friendly models must make a Morale roll. The effects of multiple leaders are not cumulative—so if a model lies in the range of two Leaders, its Quality is adjusted by 1, not 2. Note that models with the Leader special rule are not mandatory in a warband.\n\nThe leader’s bonus does not count if the leader is on the ground or if the model cannot see the leader (the model cannot trace a line of sight to the leader). \n\nEnemy models do not obstruct line of sight from a model to his leader (thus you count your bonus even if you can’t see your leader because he is surrounded by enemies).Leaders may also attempt *group activations*—rolling to activate a group of 2 to 5 models with a single die roll. See p. 16",
-        "designation": "Leader"
+        "text": "Leaders influence models’ quality and morale. Any friendly model within Long distance from a Leader has its Quality rolls (including Morale rolls) increased by one. When a Leader dies, though, all friendly models must make a Morale roll. The effects of multiple leaders are not cumulative—so if a model lies in the range of two Leaders, its Quality is adjusted by 1, not 2. Note that models with the Leader special rule are not mandatory in a warband.\n\nThe leader’s bonus does not count if the leader is on the ground or if the model cannot see the leader (the model cannot trace a line of sight to the leader). \n\nEnemy models do not obstruct line of sight from a model to his leader (thus you count your bonus even if you can’t see your leader because he is surrounded by enemies).Leaders may also attempt *group activations*—rolling to activate a group of 2 to 5 models with a single die roll. See p. 16"
       },
       "Special Rule§Lethal": {
-        "classification": "Special Rule",
-        "text": "Lethal models kill an opponent of a certain type, race or category just by beating him in Combat (no need to double his score). The creature’s profile will specify who he is Lethal against. *For example, a Witch Hunter is lethal against any magic-using model. A Giant Killer is lethal against any member of the Giant race, and so on.*",
-        "designation": "Lethal"
+        "text": "Lethal models kill an opponent of a certain type, race or category just by beating him in Combat (no need to double his score). The creature’s profile will specify who he is Lethal against. *For example, a Witch Hunter is lethal against any magic-using model. A Giant Killer is lethal against any member of the Giant race, and so on.*"
       },
       "Special Rule§Magic-User": {
-        "classification": "Special Rule",
-        "text": "Magic-Users can cast spells by making a Quality check. See the Magic section.",
-        "designation": "Magic-User"
+        "text": "Magic-Users can cast spells by making a Quality check. See the Magic section."
       },
       "Special Rule§Mounted": {
-        "classification": "Special Rule",
-        "text": "Mounted models ride some sort of steed—be it a horse or other riding creature. Mounted figures have +1 on their Combat score in hand to hand versus any non-mounted figure their size or smaller. Mounted figures have the Free Disengage rule against non- Mounted, non-Flying enemies.\n\nNote that rider and horse are treated as a single figure for purposes of the game. This is a change from previous editions of the rules.",
-        "designation": "Mounted"
+        "text": "Mounted models ride some sort of steed—be it a horse or other riding creature. Mounted figures have +1 on their Combat score in hand to hand versus any non-mounted figure their size or smaller. Mounted figures have the Free Disengage rule against non- Mounted, non-Flying enemies.\n\nNote that rider and horse are treated as a single figure for purposes of the game. This is a change from previous editions of the rules."
       },
       "Special Rule§Poison": {
-        "classification": "Special Rule",
-        "text": "Models with the Poison special ability have a venomous natural attack or use poisoned weapons. Roll a die every time a poison attack hits; on a 6 the target’s Quality number goes up by 1, if it ever reaches 7 the model dies.",
-        "designation": "Poison"
+        "text": "Models with the Poison special ability have a venomous natural attack or use poisoned weapons. Roll a die every time a poison attack hits; on a 6 the target’s Quality number goes up by 1, if it ever reaches 7 the model dies."
       },
       "Special Rule§Savage": {
-        "classification": "Special Rule",
-        "text": "A Savage model inflicts a gruesome kill just by doubling the opponent’s score (i.e. they don’t need to treble it—every kill counts as gruesome).",
-        "designation": "Savage"
+        "text": "A Savage model inflicts a gruesome kill just by doubling the opponent’s score (i.e. they don’t need to treble it—every kill counts as gruesome)."
       },
       "Special Rule§Shooter (Long)": {
-        "classification": "Special Rule",
-        "text": "Shooters can make ranged attacks such as shooting a bow, throwing javelins or breathing fire. The range of the attack is shown in the profile as Short, Medium or Long.",
-        "designation": "Shooter (Long)"
+        "text": "Shooters can make ranged attacks such as shooting a bow, throwing javelins or breathing fire. The range of the attack is shown in the profile as Short, Medium or Long."
       },
       "Special Rule§Shooter (Medium)": {
-        "classification": "Special Rule",
-        "text": "Shooters can make ranged attacks such as shooting a bow, throwing javelins or breathing fire. The range of the attack is shown in the profile as Short, Medium or Long.",
-        "designation": "Shooter (Medium)"
+        "text": "Shooters can make ranged attacks such as shooting a bow, throwing javelins or breathing fire. The range of the attack is shown in the profile as Short, Medium or Long."
       },
       "Special Rule§Shooter (Short)": {
-        "classification": "Special Rule",
-        "text": "Shooters can make ranged attacks such as shooting a bow, throwing javelins or breathing fire. The range of the attack is shown in the profile as Short, Medium or Long.",
-        "designation": "Shooter (Short)"
+        "text": "Shooters can make ranged attacks such as shooting a bow, throwing javelins or breathing fire. The range of the attack is shown in the profile as Short, Medium or Long."
       },
       "Special Rule§Short Move": {
-        "classification": "Special Rule",
-        "text": "A model with the Short Move rule uses the Short measuring stick when moving.",
-        "designation": "Short Move"
+        "text": "A model with the Short Move rule uses the Short measuring stick when moving."
       },
       "Special Rule§Slow": {
-        "classification": "Special Rule",
-        "text": "Slow models can only make one movement per turn, regardless of how many activation successes they roll. Note that a model such as a giant or troll may be Slow but be capable of Long movement—slow reactions, long legs! The only time a Slow model can make two movements in a turn is when it is fleeing due to a failed Morale roll.",
-        "designation": "Slow"
+        "text": "Slow models can only make one movement per turn, regardless of how many activation successes they roll. Note that a model such as a giant or troll may be Slow but be capable of Long movement—slow reactions, long legs! The only time a Slow model can make two movements in a turn is when it is fleeing due to a failed Morale roll."
       },
       "Special Rule§Steadfast": {
-        "classification": "Special Rule",
-        "text": "Steadfast models have +1 on Morale checks dice rolls.",
-        "designation": "Steadfast"
+        "text": "Steadfast models have +1 on Morale checks dice rolls."
       },
       "Special Rule§Stealth": {
-        "classification": "Special Rule",
-        "text": "A model with Stealth can move silently across the battlefield, using available cover to its advantage. As long as the model is adjacent to any scenic feature that counts as cover, the model cannot be targeted by any ranged attacks or spells. Note that there is no need for the cover to be between the Stealthy model and potential shooters—as long as the Stealthy model’s base is in contact with a scenic item, he can’t be targeted.",
-        "designation": "Stealth"
+        "text": "A model with Stealth can move silently across the battlefield, using available cover to its advantage. As long as the model is adjacent to any scenic feature that counts as cover, the model cannot be targeted by any ranged attacks or spells. Note that there is no need for the cover to be between the Stealthy model and potential shooters—as long as the Stealthy model’s base is in contact with a scenic item, he can’t be targeted."
       },
       "Special Rule§Swarm": {
-        "classification": "Special Rule",
-        "text": "Swarm models count as Animals. A Swarm “base” represents tens or even thousands of creatures. A complete Swarm is represented by several swarm bases. All Swarm bases of the same type must keep adjacent to at least another swarm base during play. If a swarm model is killed and a hole appears in this “formation”, as a free action the player can tighten the formation, bringing all Swarm models in contact again. The tightening must happen in the easiest way, i.e. by moving the MINIMUM number of models possible to retain swarm coherency.\n\nSwarms are affected at -2 by ranged attacks. Swarms can be Transfixed as normal. Spells used as ranged attacks against them do not suffer the -2 modifier. When a Swarm Falls, it means that the queen bee (or whatever is appropriate) has been crushed. A killed swarm is actually just dispersed. When a Swarm suffers a gruesome death, all other swarm models of the same type on the table must test Morale. Other models, including swarms of a different type, do not make Morale rolls when a Swarm suffers a gruesome death.",
-        "designation": "Swarm"
+        "text": "Swarm models count as Animals. A Swarm “base” represents tens or even thousands of creatures. A complete Swarm is represented by several swarm bases. All Swarm bases of the same type must keep adjacent to at least another swarm base during play. If a swarm model is killed and a hole appears in this “formation”, as a free action the player can tighten the formation, bringing all Swarm models in contact again. The tightening must happen in the easiest way, i.e. by moving the MINIMUM number of models possible to retain swarm coherency.\n\nSwarms are affected at -2 by ranged attacks. Swarms can be Transfixed as normal. Spells used as ranged attacks against them do not suffer the -2 modifier. When a Swarm Falls, it means that the queen bee (or whatever is appropriate) has been crushed. A killed swarm is actually just dispersed. When a Swarm suffers a gruesome death, all other swarm models of the same type on the table must test Morale. Other models, including swarms of a different type, do not make Morale rolls when a Swarm suffers a gruesome death."
       },
       "Special Rule§Tailslap": {
-        "classification": "Special Rule",
-        "text": "The model has a vicious tail attack that can knock enemies down. Every time an enemy recoils from a model with the Tailslap special rule, roll one die. On a 1, the model falls instead of recoiling. Use this rule only if the recoiling model is the same size or smaller as the model with Tailslap (i.e., a lizardman cannot tailslap a Dragon, but a Dragon may tailslap a lizardman).",
-        "designation": "Tailslap"
+        "text": "The model has a vicious tail attack that can knock enemies down. Every time an enemy recoils from a model with the Tailslap special rule, roll one die. On a 1, the model falls instead of recoiling. Use this rule only if the recoiling model is the same size or smaller as the model with Tailslap (i.e., a lizardman cannot tailslap a Dragon, but a Dragon may tailslap a lizardman)."
       },
       "Special Rule§Terror": {
-        "classification": "Special Rule",
-        "text": "Some models exude Terror—Any model wishing to enter hand to hand combat with a Terror-inspiring foe must pass a Quality roll on a die. If the roll fails, the model can do another action but it cannot charge the terrorizing model. When Terror-inspiring models charge, any model they charge must immediately make a Morale check.\n\nIf a model makes the roll, it becomes immune to further Terror effects from that kind of enemy. Models with Terror are themselves immune to the effects of Terror.",
-        "designation": "Terror"
+        "text": "Some models exude Terror—Any model wishing to enter hand to hand combat with a Terror-inspiring foe must pass a Quality roll on a die. If the roll fails, the model can do another action but it cannot charge the terrorizing model. When Terror-inspiring models charge, any model they charge must immediately make a Morale check.\n\nIf a model makes the roll, it becomes immune to further Terror effects from that kind of enemy. Models with Terror are themselves immune to the effects of Terror."
       },
       "Special Rule§Tough": {
-        "classification": "Special Rule",
-        "text": "Tough models are hard to kill. When a Tough model receives a Gruesome Kill, it is treated as a normal kill—the model dies but there is no Morale effect. When they receive a normal kill result, the models are just wounded—the models are not removed but their Quality target roll goes up by one. *For example when a Dragon with Quality 3+ is killed, it stays alive and becomes a Quality 4+ model. When Quality becomes 7+, the model dies.*\n\nAs reminders of a model’s wounds, you can use wound markers shaped like drops of blood or red plastic rings that you can put on the model.",
-        "designation": "Tough"
+        "text": "Tough models are hard to kill. When a Tough model receives a Gruesome Kill, it is treated as a normal kill—the model dies but there is no Morale effect. When they receive a normal kill result, the models are just wounded—the models are not removed but their Quality target roll goes up by one. *For example when a Dragon with Quality 3+ is killed, it stays alive and becomes a Quality 4+ model. When Quality becomes 7+, the model dies.*\n\nAs reminders of a model’s wounds, you can use wound markers shaped like drops of blood or red plastic rings that you can put on the model."
       },
       "Special Rule§Undead": {
-        "allowed": {
-          "classifications": []
-        },
-        "assets": {
-          "traits": [],
-          "included": []
-        },
-        "classification": "Special Rule",
-        "keywords": {},
-        "rules": {},
-        "text": "Undead models are immune to poison; shooting attacks hit them at -2 (either because they are skeletal, and arrows fly through their bones, or because they don’t have vital organs that missiles can pierce). Spell attacks hit them normally. Undead never flee from a combat. They have +2 on all Morale rolls but crumble to dust if they roll any Morale failure.",
-        "designation": "Undead"
+        "text": "Undead models are immune to poison; shooting attacks hit them at -2 (either because they are skeletal, and arrows fly through their bones, or because they don’t have vital organs that missiles can pierce). Spell attacks hit them normally. Undead never flee from a combat. They have +2 on all Morale rolls but crumble to dust if they roll any Morale failure."
       }
     },
     "gameModes": {},
     "theme": {}
-  },
-  "notes": "This manifest is provided for the purposes of testing *Rosterizer* and is not intended for distribution."
+  }
 }
