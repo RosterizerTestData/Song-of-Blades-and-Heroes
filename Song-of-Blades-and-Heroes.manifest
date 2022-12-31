@@ -6,6 +6,7 @@
   "publisher": "Ganesha Games",
   "url": "https://www.songofblades.com/",
   "notes": "This manifest is provided for the purposes of testing *Rosterizer* and is not intended for distribution.",
+  "wip":false,
   "manifest": {
     "assetTaxonomy": {
       "Model": {
@@ -21,43 +22,33 @@
         },
         "stats": {
           "Combat": {
-            "position": {
-              "priority": 2
-            },
             "ranks": {
               "0": {
                 "order": 0,
-                "statType": "value",
                 "number": 0
               },
               "1": {
                 "order": 1,
-                "statType": "value",
                 "number": 1
               },
               "2": {
                 "order": 2,
-                "statType": "value",
                 "number": 2
               },
               "3": {
                 "order": 3,
-                "statType": "value",
                 "number": 3
               },
               "4": {
                 "order": 4,
-                "statType": "value",
                 "number": 4
               },
               "5": {
                 "order": 5,
-                "statType": "value",
                 "number": 5
               },
               "6": {
                 "order": 6,
-                "statType": "value",
                 "number": 6
               }
             },
@@ -75,28 +66,20 @@
             ]
           },
           "Quality": {
-            "position": {
-              "priority": 1
-            },
             "ranks": {
-              "0": {
-                "label": "6+",
+              "6+": {
                 "order": 0
               },
-              "1": {
-                "label": "5+",
+              "5+": {
                 "order": 1
               },
-              "2": {
-                "label": "4+",
+              "4+": {
                 "order": 2
               },
-              "3": {
-                "label": "3+",
+              "3+": {
                 "order": 3
               },
-              "4": {
-                "label": "2+",
+              "2+": {
                 "order": 4
               }
             },
@@ -5559,9 +5542,6 @@
         },
         "stats": {
           "Points": {
-            "position": {
-              "group": "Army Value"
-            },
             "groupOrder": -1,
             "group": "Costs",
             "dynamic": true,
