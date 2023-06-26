@@ -1,12 +1,12 @@
 {
   "name": "Song of Blades and Heroes 4e",
-  "revision": "0",
+  "revision": "0.1.0",
   "game": "Song of Blades and Heroes",
   "genre": "fantasy",
   "publisher": "Ganesha Games",
   "url": "https://www.songofblades.com/",
   "notes": "This manifest is provided for the purposes of testing *Rosterizer* and is not intended for distribution.",
-  "wip":false,
+  "wip": false,
   "manifest": {
     "assetTaxonomy": {
       "Model": {
@@ -22,70 +22,70 @@
         },
         "stats": {
           "Combat": {
-            "ranks": {
-              "0": {
-                "order": 0,
-                "number": 0
-              },
-              "1": {
-                "order": 1,
-                "number": 1
-              },
-              "2": {
-                "order": 2,
-                "number": 2
-              },
-              "3": {
-                "order": 3,
-                "number": 3
-              },
-              "4": {
-                "order": 4,
-                "number": 4
-              },
-              "5": {
-                "order": 5,
-                "number": 5
-              },
-              "6": {
-                "order": 6,
-                "number": 6
-              }
-            },
             "icons": [
               "axe-sword"
             ],
+            "ranks": {
+              "0": {
+                "number": 0,
+                "order": 0
+              },
+              "1": {
+                "number": 1,
+                "order": 1
+              },
+              "2": {
+                "number": 2,
+                "order": 2
+              },
+              "3": {
+                "number": 3,
+                "order": 3
+              },
+              "4": {
+                "number": 4,
+                "order": 4
+              },
+              "5": {
+                "number": 5,
+                "order": 5
+              },
+              "6": {
+                "number": 6,
+                "order": 6
+              }
+            },
             "statType": "rank"
           },
           "Points": {
-            "groupOrder": -1,
             "group": "Costs",
-            "tracked": true,
+            "groupOrder": -1,
             "icons": [
               "quill-ink"
-            ]
+            ],
+            "tracked": true
           },
           "Quality": {
+            "icons": [
+              "falling-star"
+            ],
             "ranks": {
-              "6+": {
-                "order": 0
-              },
-              "5+": {
-                "order": 1
-              },
-              "4+": {
-                "order": 2
+              "2+": {
+                "order": 4
               },
               "3+": {
                 "order": 3
               },
-              "2+": {
-                "order": 4
+              "4+": {
+                "order": 2
+              },
+              "5+": {
+                "order": 1
+              },
+              "6+": {
+                "order": 0
               }
             },
-            "icons": [
-              "falling-star"
-            ],
             "statType": "rank"
           }
         }
@@ -114,11 +114,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 218,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 218
           },
           "Quality": {
             "statType": "rank"
@@ -145,11 +145,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 72,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 72
           },
           "Quality": {
             "statType": "rank"
@@ -179,11 +179,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 268,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 268
           },
           "Quality": {
             "statType": "rank"
@@ -208,11 +208,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 66,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 66
           },
           "Quality": {
             "statType": "rank"
@@ -236,11 +236,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 27,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 27
           },
           "Quality": {
             "statType": "rank"
@@ -264,11 +264,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 60,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 60
           },
           "Quality": {
             "statType": "rank"
@@ -296,11 +296,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 69,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 69
           },
           "Quality": {
             "statType": "rank"
@@ -327,11 +327,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 39,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 39
           },
           "Quality": {
             "statType": "rank"
@@ -359,11 +359,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 19,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 19
           },
           "Quality": {
             "statType": "rank"
@@ -390,11 +390,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 65,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 65
           },
           "Quality": {
             "statType": "rank"
@@ -421,11 +421,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 47,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 47
           },
           "Quality": {
             "statType": "rank"
@@ -452,11 +452,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 57,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 57
           },
           "Quality": {
             "statType": "rank"
@@ -482,11 +482,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 35,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 35
           },
           "Quality": {
             "statType": "rank"
@@ -513,11 +513,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 62,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 62
           },
           "Quality": {
             "statType": "rank"
@@ -542,11 +542,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 70,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 70
           },
           "Quality": {
             "statType": "rank"
@@ -570,11 +570,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 38,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 38
           },
           "Quality": {
             "statType": "rank"
@@ -598,11 +598,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 40,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 40
           },
           "Quality": {
             "statType": "rank"
@@ -626,11 +626,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 52,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 52
           },
           "Quality": {
             "statType": "rank"
@@ -655,11 +655,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 95,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 95
           },
           "Quality": {
             "statType": "rank"
@@ -684,11 +684,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 24,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 24
           },
           "Quality": {
             "statType": "rank"
@@ -714,11 +714,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 56,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 56
           },
           "Quality": {
             "statType": "rank"
@@ -744,11 +744,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 46,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 46
           },
           "Quality": {
             "statType": "rank"
@@ -773,11 +773,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 41,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 41
           },
           "Quality": {
             "statType": "rank"
@@ -802,11 +802,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 40,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 40
           },
           "Quality": {
             "statType": "rank"
@@ -831,11 +831,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 18,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 18
           },
           "Quality": {
             "statType": "rank"
@@ -860,11 +860,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 30,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 30
           },
           "Quality": {
             "statType": "rank"
@@ -889,11 +889,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 40,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 40
           },
           "Quality": {
             "statType": "rank"
@@ -917,11 +917,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 34,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 34
           },
           "Quality": {
             "statType": "rank"
@@ -947,11 +947,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 82,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 82
           },
           "Quality": {
             "statType": "rank"
@@ -975,11 +975,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 55,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 55
           },
           "Quality": {
             "statType": "rank"
@@ -1004,11 +1004,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 60,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 60
           },
           "Quality": {
             "statType": "rank"
@@ -1032,11 +1032,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 100,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 100
           },
           "Quality": {
             "statType": "rank"
@@ -1060,11 +1060,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 52,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 52
           },
           "Quality": {
             "statType": "rank"
@@ -1089,11 +1089,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 93,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 93
           },
           "Quality": {
             "statType": "rank"
@@ -1118,11 +1118,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 53,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 53
           },
           "Quality": {
             "statType": "rank"
@@ -1146,11 +1146,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 38,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 38
           },
           "Quality": {
             "statType": "rank"
@@ -1175,11 +1175,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 70,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 70
           },
           "Quality": {
             "statType": "rank"
@@ -1204,11 +1204,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 50,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 50
           },
           "Quality": {
             "statType": "rank"
@@ -1235,11 +1235,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 47,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 47
           },
           "Quality": {
             "statType": "rank"
@@ -1263,11 +1263,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 13,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 13
           },
           "Quality": {
             "statType": "rank"
@@ -1293,11 +1293,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 32,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 32
           },
           "Quality": {
             "statType": "rank"
@@ -1322,11 +1322,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 32,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 32
           },
           "Quality": {
             "statType": "rank"
@@ -1354,11 +1354,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 86,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 86
           },
           "Quality": {
             "statType": "rank"
@@ -1385,11 +1385,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 32,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 32
           },
           "Quality": {
             "statType": "rank"
@@ -1416,11 +1416,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 56,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 56
           },
           "Quality": {
             "statType": "rank"
@@ -1445,11 +1445,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 40,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 40
           },
           "Quality": {
             "statType": "rank"
@@ -1477,11 +1477,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 72,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 72
           },
           "Quality": {
             "statType": "rank"
@@ -1509,11 +1509,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 62,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 62
           },
           "Quality": {
             "statType": "rank"
@@ -1538,11 +1538,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 20,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 20
           },
           "Quality": {
             "statType": "rank"
@@ -1570,11 +1570,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 44,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 44
           },
           "Quality": {
             "statType": "rank"
@@ -1602,11 +1602,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 58,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 58
           },
           "Quality": {
             "statType": "rank"
@@ -1634,11 +1634,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 82,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 82
           },
           "Quality": {
             "statType": "rank"
@@ -1665,11 +1665,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 66,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 66
           },
           "Quality": {
             "statType": "rank"
@@ -1695,11 +1695,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 50,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 50
           },
           "Quality": {
             "statType": "rank"
@@ -1723,11 +1723,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 21,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 21
           },
           "Quality": {
             "statType": "rank"
@@ -1751,11 +1751,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 45,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 45
           },
           "Quality": {
             "statType": "rank"
@@ -1779,11 +1779,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 45,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 45
           },
           "Quality": {
             "statType": "rank"
@@ -1807,11 +1807,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 8,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 8
           },
           "Quality": {
             "statType": "rank"
@@ -1835,11 +1835,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 20,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 20
           },
           "Quality": {
             "statType": "rank"
@@ -1863,11 +1863,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 15,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 15
           },
           "Quality": {
             "statType": "rank"
@@ -1892,11 +1892,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 47,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 47
           },
           "Quality": {
             "statType": "rank"
@@ -1921,11 +1921,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 90,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 90
           },
           "Quality": {
             "statType": "rank"
@@ -1949,11 +1949,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 50,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 50
           },
           "Quality": {
             "statType": "rank"
@@ -1978,11 +1978,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 17,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 17
           },
           "Quality": {
             "statType": "rank"
@@ -2007,11 +2007,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 54,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 54
           },
           "Quality": {
             "statType": "rank"
@@ -2035,11 +2035,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 32,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 32
           },
           "Quality": {
             "statType": "rank"
@@ -2064,11 +2064,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 9,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 9
           },
           "Quality": {
             "statType": "rank"
@@ -2092,11 +2092,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 11,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 11
           },
           "Quality": {
             "statType": "rank"
@@ -2122,11 +2122,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 16,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 16
           },
           "Quality": {
             "statType": "rank"
@@ -2150,11 +2150,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 18,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 18
           },
           "Quality": {
             "statType": "rank"
@@ -2179,11 +2179,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 6,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 6
           },
           "Quality": {
             "statType": "rank"
@@ -2208,11 +2208,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 13,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 13
           },
           "Quality": {
             "statType": "rank"
@@ -2236,11 +2236,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 36,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 36
           },
           "Quality": {
             "statType": "rank"
@@ -2264,11 +2264,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 30,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 30
           },
           "Quality": {
             "statType": "rank"
@@ -2292,11 +2292,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 44,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 44
           },
           "Quality": {
             "statType": "rank"
@@ -2321,11 +2321,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 56,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 56
           },
           "Quality": {
             "statType": "rank"
@@ -2349,11 +2349,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 1,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 1
           },
           "Quality": {
             "statType": "rank"
@@ -2377,11 +2377,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 15,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 15
           },
           "Quality": {
             "statType": "rank"
@@ -2405,11 +2405,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 60,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 60
           },
           "Quality": {
             "statType": "rank"
@@ -2434,11 +2434,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 46,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 46
           },
           "Quality": {
             "statType": "rank"
@@ -2463,11 +2463,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 72,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 72
           },
           "Quality": {
             "statType": "rank"
@@ -2491,11 +2491,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 26,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 26
           },
           "Quality": {
             "statType": "rank"
@@ -2520,11 +2520,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 15,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 15
           },
           "Quality": {
             "statType": "rank"
@@ -2548,11 +2548,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 60,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 60
           },
           "Quality": {
             "statType": "rank"
@@ -2577,11 +2577,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 52,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 52
           },
           "Quality": {
             "statType": "rank"
@@ -2607,11 +2607,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 60,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 60
           },
           "Quality": {
             "statType": "rank"
@@ -2635,11 +2635,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 28,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 28
           },
           "Quality": {
             "statType": "rank"
@@ -2663,11 +2663,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 40,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 40
           },
           "Quality": {
             "statType": "rank"
@@ -2692,11 +2692,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 62,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 62
           },
           "Quality": {
             "statType": "rank"
@@ -2720,11 +2720,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 1,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 1
           },
           "Quality": {
             "statType": "rank"
@@ -2748,11 +2748,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 26,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 26
           },
           "Quality": {
             "statType": "rank"
@@ -2777,11 +2777,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 50,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 50
           },
           "Quality": {
             "statType": "rank"
@@ -2805,11 +2805,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 45,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 45
           },
           "Quality": {
             "statType": "rank"
@@ -2834,11 +2834,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 50,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 50
           },
           "Quality": {
             "statType": "rank"
@@ -2862,11 +2862,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 30,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 30
           },
           "Quality": {
             "statType": "rank"
@@ -2892,11 +2892,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 64,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 64
           },
           "Quality": {
             "statType": "rank"
@@ -2920,11 +2920,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 28,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 28
           },
           "Quality": {
             "statType": "rank"
@@ -2949,11 +2949,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 66,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 66
           },
           "Quality": {
             "statType": "rank"
@@ -2977,11 +2977,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 36,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 36
           },
           "Quality": {
             "statType": "rank"
@@ -3005,11 +3005,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 26,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 26
           },
           "Quality": {
             "statType": "rank"
@@ -3034,11 +3034,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 44,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 44
           },
           "Quality": {
             "statType": "rank"
@@ -3064,11 +3064,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 45,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 45
           },
           "Quality": {
             "statType": "rank"
@@ -3093,11 +3093,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 17,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 17
           },
           "Quality": {
             "statType": "rank"
@@ -3122,11 +3122,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 33,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 33
           },
           "Quality": {
             "statType": "rank"
@@ -3152,11 +3152,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 11,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 11
           },
           "Quality": {
             "statType": "rank"
@@ -3181,11 +3181,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 15,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 15
           },
           "Quality": {
             "statType": "rank"
@@ -3211,11 +3211,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 86,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 86
           },
           "Quality": {
             "statType": "rank"
@@ -3240,11 +3240,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 40,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 40
           },
           "Quality": {
             "statType": "rank"
@@ -3268,11 +3268,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 60,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 60
           },
           "Quality": {
             "statType": "rank"
@@ -3297,11 +3297,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 95,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 95
           },
           "Quality": {
             "statType": "rank"
@@ -3326,11 +3326,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 95,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 95
           },
           "Quality": {
             "statType": "rank"
@@ -3354,11 +3354,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 46,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 46
           },
           "Quality": {
             "statType": "rank"
@@ -3384,11 +3384,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 82,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 82
           },
           "Quality": {
             "statType": "rank"
@@ -3414,11 +3414,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 82,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 82
           },
           "Quality": {
             "statType": "rank"
@@ -3443,11 +3443,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 42,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 42
           },
           "Quality": {
             "statType": "rank"
@@ -3473,11 +3473,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 46,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 46
           },
           "Quality": {
             "statType": "rank"
@@ -3502,11 +3502,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 52,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 52
           },
           "Quality": {
             "statType": "rank"
@@ -3531,11 +3531,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 30,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 30
           },
           "Quality": {
             "statType": "rank"
@@ -3561,11 +3561,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 88,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 88
           },
           "Quality": {
             "statType": "rank"
@@ -3589,11 +3589,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 27,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 27
           },
           "Quality": {
             "statType": "rank"
@@ -3618,11 +3618,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 50,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 50
           },
           "Quality": {
             "statType": "rank"
@@ -3649,11 +3649,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 112,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 112
           },
           "Quality": {
             "statType": "rank"
@@ -3679,11 +3679,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 82,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 82
           },
           "Quality": {
             "statType": "rank"
@@ -3709,11 +3709,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 62,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 62
           },
           "Quality": {
             "statType": "rank"
@@ -3738,11 +3738,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 52,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 52
           },
           "Quality": {
             "statType": "rank"
@@ -3770,11 +3770,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 114,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 114
           },
           "Quality": {
             "statType": "rank"
@@ -3801,11 +3801,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 43,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 43
           },
           "Quality": {
             "statType": "rank"
@@ -3831,11 +3831,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 72,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 72
           },
           "Quality": {
             "statType": "rank"
@@ -3860,11 +3860,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 50,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 50
           },
           "Quality": {
             "statType": "rank"
@@ -3888,11 +3888,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 29,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 29
           },
           "Quality": {
             "statType": "rank"
@@ -3917,11 +3917,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 47,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 47
           },
           "Quality": {
             "statType": "rank"
@@ -3946,11 +3946,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 76,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 76
           },
           "Quality": {
             "statType": "rank"
@@ -3974,11 +3974,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 60,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 60
           },
           "Quality": {
             "statType": "rank"
@@ -4002,11 +4002,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 38,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 38
           },
           "Quality": {
             "statType": "rank"
@@ -4031,11 +4031,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 100,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 100
           },
           "Quality": {
             "statType": "rank"
@@ -4059,11 +4059,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 23,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 23
           },
           "Quality": {
             "statType": "rank"
@@ -4088,11 +4088,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 56,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 56
           },
           "Quality": {
             "statType": "rank"
@@ -4119,11 +4119,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 78,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 78
           },
           "Quality": {
             "statType": "rank"
@@ -4147,11 +4147,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 35,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 35
           },
           "Quality": {
             "statType": "rank"
@@ -4176,11 +4176,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 30,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 30
           },
           "Quality": {
             "statType": "rank"
@@ -4205,11 +4205,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 57,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 57
           },
           "Quality": {
             "statType": "rank"
@@ -4233,11 +4233,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 60,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 60
           },
           "Quality": {
             "statType": "rank"
@@ -4262,11 +4262,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 38,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 38
           },
           "Quality": {
             "statType": "rank"
@@ -4291,11 +4291,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 24,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 24
           },
           "Quality": {
             "statType": "rank"
@@ -4319,11 +4319,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 27,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 27
           },
           "Quality": {
             "statType": "rank"
@@ -4348,11 +4348,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 46,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 46
           },
           "Quality": {
             "statType": "rank"
@@ -4377,11 +4377,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 30,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 30
           },
           "Quality": {
             "statType": "rank"
@@ -4405,11 +4405,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 27,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 27
           },
           "Quality": {
             "statType": "rank"
@@ -4435,11 +4435,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 2,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 2
           },
           "Quality": {
             "statType": "rank"
@@ -4465,11 +4465,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 45,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 45
           },
           "Quality": {
             "statType": "rank"
@@ -4494,11 +4494,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 30,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 30
           },
           "Quality": {
             "statType": "rank"
@@ -4523,11 +4523,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 48,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 48
           },
           "Quality": {
             "statType": "rank"
@@ -4551,11 +4551,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 26,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 26
           },
           "Quality": {
             "statType": "rank"
@@ -4580,11 +4580,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 24,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 24
           },
           "Quality": {
             "statType": "rank"
@@ -4608,11 +4608,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 36,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 36
           },
           "Quality": {
             "statType": "rank"
@@ -4636,11 +4636,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 27,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 27
           },
           "Quality": {
             "statType": "rank"
@@ -4666,11 +4666,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 51,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 51
           },
           "Quality": {
             "statType": "rank"
@@ -4696,11 +4696,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 38,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 38
           },
           "Quality": {
             "statType": "rank"
@@ -4726,11 +4726,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 80,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 80
           },
           "Quality": {
             "statType": "rank"
@@ -4755,11 +4755,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 95,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 95
           },
           "Quality": {
             "statType": "rank"
@@ -4783,11 +4783,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 58,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 58
           },
           "Quality": {
             "statType": "rank"
@@ -4814,11 +4814,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 62,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 62
           },
           "Quality": {
             "statType": "rank"
@@ -4845,11 +4845,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 62,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 62
           },
           "Quality": {
             "statType": "rank"
@@ -4876,11 +4876,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 54,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 54
           },
           "Quality": {
             "statType": "rank"
@@ -4907,11 +4907,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 11,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 11
           },
           "Quality": {
             "statType": "rank"
@@ -4937,11 +4937,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 34,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 34
           },
           "Quality": {
             "statType": "rank"
@@ -4970,11 +4970,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 40,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 40
           },
           "Quality": {
             "statType": "rank"
@@ -5002,11 +5002,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 15,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 15
           },
           "Quality": {
             "statType": "rank"
@@ -5032,11 +5032,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 6,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 6
           },
           "Quality": {
             "statType": "rank"
@@ -5061,11 +5061,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 22,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 22
           },
           "Quality": {
             "statType": "rank"
@@ -5092,11 +5092,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 140,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 140
           },
           "Quality": {
             "statType": "rank"
@@ -5124,11 +5124,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 5,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 5
           },
           "Quality": {
             "statType": "rank"
@@ -5154,11 +5154,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 41,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 41
           },
           "Quality": {
             "statType": "rank"
@@ -5184,11 +5184,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 96,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 96
           },
           "Quality": {
             "statType": "rank"
@@ -5214,11 +5214,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 116,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 116
           },
           "Quality": {
             "statType": "rank"
@@ -5245,11 +5245,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 136,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 136
           },
           "Quality": {
             "statType": "rank"
@@ -5275,11 +5275,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 48,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 48
           },
           "Quality": {
             "statType": "rank"
@@ -5304,11 +5304,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 50,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 50
           },
           "Quality": {
             "statType": "rank"
@@ -5333,11 +5333,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 95,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 95
           },
           "Quality": {
             "statType": "rank"
@@ -5361,11 +5361,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 36,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 36
           },
           "Quality": {
             "statType": "rank"
@@ -5391,11 +5391,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 72,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 72
           },
           "Quality": {
             "statType": "rank"
@@ -5422,11 +5422,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 92,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 92
           },
           "Quality": {
             "statType": "rank"
@@ -5454,11 +5454,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 86,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 86
           },
           "Quality": {
             "statType": "rank"
@@ -5484,11 +5484,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 8,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 8
           },
           "Quality": {
             "statType": "rank"
@@ -5515,11 +5515,11 @@
             "statType": "rank"
           },
           "Points": {
-            "value": 35,
-            "groupOrder": -1,
             "group": "Costs",
+            "groupOrder": -1,
+            "statType": "numeric",
             "tracked": true,
-            "statType": "numeric"
+            "value": 35
           },
           "Quality": {
             "statType": "rank"
@@ -5542,13 +5542,13 @@
         },
         "stats": {
           "Points": {
-            "groupOrder": -1,
-            "group": "Costs",
             "dynamic": true,
-            "tracked": true,
+            "group": "Costs",
+            "groupOrder": -1,
             "icons": [
               "scroll-unfurled"
-            ]
+            ],
+            "tracked": true
           }
         }
       },
