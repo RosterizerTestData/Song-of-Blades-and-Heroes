@@ -1,6 +1,6 @@
 {
   "name": "Song of Blades and Heroes 4e",
-  "revision": "0.1.0",
+  "revision": "0.2.0",
   "game": "Song of Blades and Heroes",
   "genre": "fantasy",
   "publisher": "Ganesha Games",
@@ -5527,7 +5527,7 @@
         },
         "text": ""
       },
-      "Roster§Warband": {
+      "Roster§Roster": {
         "allowed": {
           "classifications": [
             "Model"
@@ -5535,6 +5535,7 @@
         },
         "aspects": {
           "Describe": true,
+          "Label": "Warband",
           "Lock Qty": true,
           "Rename": true,
           "Type": "conceptual",
